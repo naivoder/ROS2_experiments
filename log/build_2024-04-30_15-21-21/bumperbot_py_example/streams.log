@@ -1,0 +1,33 @@
+[0.452s] Invoking command in '/home/naivoder/bumperbot_ws/src/bumperbot_py_example': PYTHONPATH=/home/naivoder/bumperbot_ws/build/bumperbot_py_example/prefix_override:/home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build install --record /home/naivoder/bumperbot_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data
+[0.570s] running egg_info
+[0.570s] creating ../../build/bumperbot_py_example/bumperbot_py_example.egg-info
+[0.570s] writing ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/PKG-INFO
+[0.570s] writing dependency_links to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/dependency_links.txt
+[0.570s] writing entry points to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/entry_points.txt
+[0.570s] writing requirements to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/requires.txt
+[0.570s] writing top-level names to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/top_level.txt
+[0.571s] writing manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.571s] reading manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.572s] writing manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.572s] running build
+[0.572s] running build_py
+[0.572s] creating /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build
+[0.572s] creating /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build/lib
+[0.572s] creating /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build/lib/bumperbot_py_example
+[0.572s] copying bumperbot_py_example/__init__.py -> /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build/lib/bumperbot_py_example
+[0.572s] running install
+[0.572s] running install_lib
+[0.573s] creating /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example
+[0.573s] copying /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build/lib/bumperbot_py_example/__init__.py -> /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example
+[0.573s] byte-compiling /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example/__init__.py to __init__.cpython-310.pyc
+[0.573s] running install_data
+[0.573s] creating /home/naivoder/bumperbot_ws/install/bumperbot_py_example/share/ament_index
+[0.574s] creating /home/naivoder/bumperbot_ws/install/bumperbot_py_example/share/ament_index/resource_index
+[0.574s] creating /home/naivoder/bumperbot_ws/install/bumperbot_py_example/share/ament_index/resource_index/packages
+[0.574s] copying resource/bumperbot_py_example -> /home/naivoder/bumperbot_ws/install/bumperbot_py_example/share/ament_index/resource_index/packages
+[0.574s] copying package.xml -> /home/naivoder/bumperbot_ws/install/bumperbot_py_example/share/bumperbot_py_example
+[0.574s] running install_egg_info
+[0.575s] Copying ../../build/bumperbot_py_example/bumperbot_py_example.egg-info to /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info
+[0.575s] running install_scripts
+[0.589s] writing list of installed files to '/home/naivoder/bumperbot_ws/build/bumperbot_py_example/install.log'
+[0.602s] Invoked command in '/home/naivoder/bumperbot_ws/src/bumperbot_py_example' returned '0': PYTHONPATH=/home/naivoder/bumperbot_ws/build/bumperbot_py_example/prefix_override:/home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build install --record /home/naivoder/bumperbot_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data

@@ -1,0 +1,15 @@
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_example
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_example
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.sh
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/ament_prefix_path.dsv
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.sh
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/environment/path.dsv
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.bash
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.sh
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.zsh
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/local_setup.dsv
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.dsv
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/ament_index/resource_index/packages/bumperbot_cpp_example
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig.cmake
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/cmake/bumperbot_cpp_exampleConfig-version.cmake
+/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example/share/bumperbot_cpp_example/package.xml

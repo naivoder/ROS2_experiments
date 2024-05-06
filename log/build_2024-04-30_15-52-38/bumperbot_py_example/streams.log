@@ -1,0 +1,24 @@
+[0.362s] Invoking command in '/home/naivoder/bumperbot_ws/src/bumperbot_py_example': PYTHONPATH=/home/naivoder/bumperbot_ws/build/bumperbot_py_example/prefix_override:/home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build install --record /home/naivoder/bumperbot_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data
+[0.488s] running egg_info
+[0.488s] writing ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/PKG-INFO
+[0.489s] writing dependency_links to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/dependency_links.txt
+[0.489s] writing entry points to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/entry_points.txt
+[0.489s] writing requirements to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/requires.txt
+[0.489s] writing top-level names to ../../build/bumperbot_py_example/bumperbot_py_example.egg-info/top_level.txt
+[0.491s] reading manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.491s] writing manifest file '../../build/bumperbot_py_example/bumperbot_py_example.egg-info/SOURCES.txt'
+[0.491s] running build
+[0.491s] running build_py
+[0.492s] copying bumperbot_py_example/simple_subscriber.py -> /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build/lib/bumperbot_py_example
+[0.492s] running install
+[0.492s] running install_lib
+[0.493s] copying /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build/lib/bumperbot_py_example/simple_subscriber.py -> /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example
+[0.493s] byte-compiling /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example/simple_subscriber.py to simple_subscriber.cpython-310.pyc
+[0.493s] running install_data
+[0.493s] running install_egg_info
+[0.495s] removing '/home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info' (and everything under it)
+[0.496s] Copying ../../build/bumperbot_py_example/bumperbot_py_example.egg-info to /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages/bumperbot_py_example-0.0.0-py3.10.egg-info
+[0.496s] running install_scripts
+[0.508s] Installing simple_publisher script to /home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/bumperbot_py_example
+[0.508s] writing list of installed files to '/home/naivoder/bumperbot_ws/build/bumperbot_py_example/install.log'
+[0.523s] Invoked command in '/home/naivoder/bumperbot_ws/src/bumperbot_py_example' returned '0': PYTHONPATH=/home/naivoder/bumperbot_ws/build/bumperbot_py_example/prefix_override:/home/naivoder/bumperbot_ws/install/bumperbot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/bumperbot_py_example build --build-base /home/naivoder/bumperbot_ws/build/bumperbot_py_example/build install --record /home/naivoder/bumperbot_ws/build/bumperbot_py_example/install.log --single-version-externally-managed install_data

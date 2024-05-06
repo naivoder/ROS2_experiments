@@ -1,0 +1,6 @@
+Invoking command in '/home/naivoder/bumperbot_ws/build/bumperbot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/naivoder/bumperbot_ws/src/bumperbot_cpp_example -DCMAKE_INSTALL_PREFIX=/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example
+Invoked command in '/home/naivoder/bumperbot_ws/build/bumperbot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/naivoder/bumperbot_ws/src/bumperbot_cpp_example -DCMAKE_INSTALL_PREFIX=/home/naivoder/bumperbot_ws/install/bumperbot_cpp_example
+Invoking command in '/home/naivoder/bumperbot_ws/build/bumperbot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/naivoder/bumperbot_ws/build/bumperbot_cpp_example -- -j8 -l8
+Invoked command in '/home/naivoder/bumperbot_ws/build/bumperbot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/naivoder/bumperbot_ws/build/bumperbot_cpp_example -- -j8 -l8
+Invoking command in '/home/naivoder/bumperbot_ws/build/bumperbot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/naivoder/bumperbot_ws/build/bumperbot_cpp_example
+Invoked command in '/home/naivoder/bumperbot_ws/build/bumperbot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/naivoder/bumperbot_ws/build/bumperbot_cpp_example
